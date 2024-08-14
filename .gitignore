@@ -1,0 +1,5 @@
+node_modules
+.vscode
+.DS_store
+package-lock.json
+bootstrap-icons-1.11.3
